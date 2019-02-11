@@ -1,7 +1,3 @@
 discord.py==0.16.12
-import discord
 import asyncio
-import random
-import os
-import sys
-import json
+
