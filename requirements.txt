@@ -1,5 +1,4 @@
 discord.py==0.16.12
-import bs4
 import discord
 import asyncio
 import random
